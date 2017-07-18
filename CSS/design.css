@@ -1,0 +1,21 @@
+h1{ font-size: x-large;
+    font-weight: bold;}
+h2{ font-size: xx-large;
+    font-weight: bold;}
+h4{
+    font-weight: bold;
+    padding-top: 7%;
+}
+p{font-size: small;}
+#jumbotron{
+    background-color: #373737;
+    color: #C0B283;}
+#container1{
+    background-color: #DCD0C0;
+    color: #373737;
+}
+body{
+  background-color: #373737;
+  color: #C0B283;
+  font-family: 'Roboto Mono', monospace;
+}
