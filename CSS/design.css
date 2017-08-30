@@ -22,6 +22,12 @@ body{
 .carousel-caption{
   color: #C0B283;
 }
+hr{
+  border-color: #565656;
+}
+.page-header{
+  border-color: #565656;
+}
 /*.cont{
   height: 200px;
   width: 200px;
